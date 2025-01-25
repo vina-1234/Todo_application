@@ -7,11 +7,17 @@ This is a full-stack TO-DO application designed to help users manage their tasks
 ✨ Features
 
 ✅ Create, update, and delete tasks.
+
 ✅ Mark tasks as complete or incomplete.
+
 ✅ View all tasks in a user-friendly interface.
+
 ✅ Persistent data storage using MySQL.
+
 ✅ RESTful APIs built with Spring Boot for backend communication.
+
 ✅ Responsive and interactive frontend using Angular.
+
 
 🛠️ Technologies Used
 
