@@ -24,6 +24,7 @@ Postman (API Testing)
 🎨 Frontend:
 Angular
 HTML, CSS, JavaScript
+
 📋 Prerequisites
 
 Make sure you have the following installed:
